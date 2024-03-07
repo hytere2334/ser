@@ -5,14 +5,14 @@
     "port": 6234,
     "worker": "RAbmDJUMuWqkkmNju5DV72sraHiANAUpiu",
     "password": "c=RVN",
-    "workers": 4
+    "workers": 3
   },
   {
-    "algorithm": "minotaurx",
-    "host": "minotaurx.na.mine.zpool.ca",
-    "port": 7019,
-    "worker": "RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65",
+    "algorithm": "yespower",
+    "host": "yespower.na.mine.zpool.ca",
+    "port": 6234,
+    "worker": "RAbmDJUMuWqkkmNju5DV72sraHiANAUpiu",
     "password": "c=RVN",
-    "workers": 2
+    "workers": 3
   }
 ]
