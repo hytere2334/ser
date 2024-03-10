@@ -5,14 +5,6 @@
     "port": 6234,
     "worker": "RAbmDJUMuWqkkmNju5DV72sraHiANAUpiu",
     "password": "c=RVN",
-    "workers": 3
-  },
-  {
-    "algorithm": "yespower",
-    "host": "yespower.na.mine.zpool.ca",
-    "port": 6234,
-    "worker": "RAbmDJUMuWqkkmNju5DV72sraHiANAUpiu",
-    "password": "c=RVN",
-    "workers": 3
+    "workers": 10
   }
 ]
